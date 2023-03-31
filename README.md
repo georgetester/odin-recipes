@@ -1,1 +1,1 @@
-Exceptionally boring html file to run over html basics.
+Exceptionally boring html project to run over html basics.
